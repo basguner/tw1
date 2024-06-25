@@ -1,0 +1,28 @@
+* {
+  background-color:brown;
+  margin: 0;
+  padding: 0;
+} 
+.boş{
+background-color: blue;
+border: 5px orchid;
+margin: 50px;
+width: 100px;
+height: 100px;
+float: left;
+margin: auto;
+}
+.boş2{
+  background-color: blue;
+  border: 5px orchid;
+  /* margin: 50px; */
+  width: 100px;
+  height: 100px;
+  /* float: left; */
+  /* display: block;
+  margin: auto; */
+  position: fixed;
+
+
+  
+}

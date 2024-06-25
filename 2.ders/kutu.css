@@ -1,0 +1,105 @@
+.container {
+  background-color: rgba(rgb(221, 255, 0), rgb(128, 55, 0), rgb(137, 0.3));
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    144deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(121, 52, 9, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  margin: 150px;
+  width: 100px;
+  height: 100px;
+}
+.bahar1 {
+  background-color: orange;
+  width: 250px;
+  height: 250px;
+  border: 2px orange;
+  margin: 100px;
+  float: left;
+  border: none;
+  text-align: center;
+}
+.bahar2 {
+  background-color: orange;
+  width: 250px;
+  height: 250px;
+  border: 10px;
+  margin: 100px;
+  border-style: dashed;
+  float: left;
+  text-align: center;
+}
+
+.bahar3 {
+  background-color: orange;
+  width: 250px;
+  height: 250px;
+  border: 10px;
+  margin: 100px;
+  border-style: double;
+  float: left;
+  text-align: center;
+}
+.bahar4 {
+  background-color: orange;
+  width: 250px;
+  height: 250px;
+  border: 10px;
+  margin: 100px;
+  border-style: ridge;
+  float: left;
+  text-align: center;
+}
+.bahar5 {
+  background-color: orange;
+  width: 250px;
+  height: 250px;
+  border: 10px;
+  margin: 100px;
+  border-style: ridge;
+  float: left;
+  text-align: center;
+}
+.bahar6 {
+  background-color: orange;
+  width: 250px;
+  height: 250px;
+  border: 10px;
+  margin: 100px;
+  border-style: solid;
+  float: left;
+  text-align: center;
+}
+.bahar7 {
+  background-color: orange;
+  width: 250px;
+  height: 250px;
+
+  border: 10px;
+  margin: 100px;
+  border-style: dotted;
+  float: left;
+  text-align: center;
+}
+.bahar8 {
+  background-color: orange;
+  width: 250px;
+  height: 250px;
+  border: 10px;
+  margin: 100px;
+  border-style: inset;
+  float: left;
+  text-align: center;
+}
+.bahar9 {
+  background-color: orange;
+  width: 250px;
+  height: 250px;
+  border: 10px;
+  margin: 100px;
+  border-style: outset;
+  float: left;
+  text-align: center;
+}

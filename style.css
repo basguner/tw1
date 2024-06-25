@@ -1,0 +1,11 @@
+.p1 {
+  border: 2px solid blue;
+  padding: 10px;
+  outline: 2px solid blue;
+  outline-offset: 15px;
+  display: inline-block;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: orange;
+}
+

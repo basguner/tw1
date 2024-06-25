@@ -1,0 +1,16 @@
+.airbender {
+  margin: 30px;
+  padding: 20px;
+
+  /* border-style: solid;
+  border-color: brown;
+  border-width: 10px;
+  border-bottom: 10px;
+  border-left: 10px;
+  border-bottom: inset10px; */
+
+  /* border-bottom: dashed 10px; */
+  border: 10px inset crimson;
+  border-radius: 20px;
+  border-top-left-radius: 20px;
+}
