@@ -1,0 +1,51 @@
+  
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 300PX;
+    padding:100PX;
+    background-color: black;
+    border: 2px solid red;
+
+}
+.container{
+    margin: 20px;
+    
+}
+.container button{
+    width: 50px;
+    height: 50p;
+    border-radius:100% ;
+}
+   .but{
+    margin: 20px;
+    
+   }
+   .but button{
+    width: 50px;
+    height: 50p;
+    border-radius: 100%;
+
+   }
+   
+.hesap{
+    margin: 20px;
+}
+.hesap button{
+    width: 50px;
+    height: 50p;
+    border-radius:100% ;
+
+}
+.bul{
+    margin: 20px;
+}
+.bul button{
+    width: 50px;
+    height: 50p;
+    border-radius: 100%;
+
+}

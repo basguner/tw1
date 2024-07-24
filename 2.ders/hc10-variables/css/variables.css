@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&family=Tiny5&display=swap');
+
+@import './theme.css';
+
+:root {
+
+    /* COLORS */
+  --yesil: #22cb22;
+  --white: #ececec;
+  --orange: rgb(238, 157, 5);
+  --blue: rgb(57, 128, 235);
+  --dark-blue: rgb(6, 60, 142);
+
+  /* TEMA */
+
+  --tema-1:#004C50;
+  --tema-2:#00939C;
+  --tema-3:#10ABB4;
+  --tema-4:#9C3E00;
+  --tema-5:#502000;
+
+  /* Fonts */
+
+  --ff-mexico:"Playwrite MX", cursive;
+  --ff-tiny:"Tiny5", sans-serif;
+
+    /* Fob-sizes */
+
+    --fs-lg:1.4rem;
+    --fs-xl:2rem;
+    --fs-xxl:3rem;
+}
+
+body {
+  background-color: var(--yesil);
+  background-color: var(--white);
+  /* font-family: "Playwrite MX", cursive; */
+}
+
+h1 {
+  background-color: var(--orange);
+  font-family: var(--ff-mexico);
+}
+
+p {
+  background-color: var(--orange);
+  font-family: var(--ff-tiny);
+  font-size: var(--fs-xxl);
+}
+
+.container {
+  border: 2px solid red;
+  width: 500px;
+  height: 300px;
+  background-color: var(--blue-light-2);
+}
+
+.light {
+  background-color: var(--tema-1);
+  width: 150px;
+  height: 150px;
+}
+
+.dark {
+  background-color: var(--tema-4);
+  width: 150px;
+  height: 150px;
+}
+

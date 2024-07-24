@@ -1,0 +1,1 @@
+function areAnagrams(k1,k2)
